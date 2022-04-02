@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Battleship/task/build/
+/Battleship/task/out/
+/Battleship/task/out/production/classes/
+/Topics/Arrays as parameters/Inverse boolean flags/out/
+/Topics/Arrays as parameters/Inverse boolean flags/out/production/classes/
+/Topics/Arrays as parameters/Sorting numbers/out/
+/Topics/Arrays as parameters/Sorting numbers/out/production/classes/
+/Topics/Declaring a method/Raise to the power/out/
+/Topics/Declaring a method/Raise to the power/out/production/classes/
+/Topics/Exception handling/Converting and multiplying/out/
+/Topics/Exception handling/Converting and multiplying/out/production/classes/
+/Topics/Input streams/Convert to bytes/out/
+/Topics/Input streams/Convert to bytes/out/production/classes/
+/Topics/Input streams/Count words/out/
+/Topics/Input streams/Count words/out/production/classes/
+/Topics/Input streams/Reverse input text/out/
+/Topics/Input streams/Reverse input text/out/production/classes/
+/Topics/NPE/Avoid NPE with strings/out/
+/Topics/NPE/Avoid NPE with strings/out/production/classes/
+/Topics/Objects/Preparing full name/out/
+/Topics/Objects/Preparing full name/out/production/classes/
